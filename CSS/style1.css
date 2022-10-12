@@ -1,0 +1,89 @@
+nav {
+    display: inline-block;
+}
+
+li {
+
+    display: inline-block;
+    margin-right: 16px;
+    margin-left: 18px;
+    font: size 22px;
+
+    color: blue;
+
+}
+
+.conta {
+
+    vertical-align: baseline;
+}
+
+.divnavigation {
+    display: inline;
+}
+
+
+
+.list1 {
+    display: inline-block;
+    color: red;
+
+}
+
+.date {
+    font-size: 31px;
+    color: white;
+    padding-top: 10px;
+}
+
+.rect {
+    width: 56px;
+    height: 56px;
+    background-color: blue;
+    text-align: center;
+    margin: 25px;
+
+}
+
+
+.img {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 25px;
+
+}
+
+.pborder {
+    border: 25 px;
+    width: 920px;
+    height: 360px;
+    background-color: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    margin-bottom: 100px;
+    line-height: 120%;
+
+}
+
+.month {
+    font-size: 22px;
+    color: #3d58a6;
+    margin: 25px;
+}
+
+.lorem1 {
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    font-size: 20px;
+    margin: 25px;
+}
+
+.lorem2 {
+    font-family: "ALK Life", sans-serif;
+    font-size: 16px;
+    margin: 25px;
+}
+
+.imgdistance1 {
+    margin-right: 30px;
+}
